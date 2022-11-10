@@ -1,8 +1,3 @@
-mystring = "abcdefghijk"
-
-mystring[3:6]
-
-
-'Hello World'[-3]
-
-mystring.
+f.write("\n Appeneded to the end of my text file?")
+f = open("Test.txt","w")
+f.close()
