@@ -1,8 +1,17 @@
-mylist = [1,2,3,4,5,6,7,8,9,10]
+numbah_list = [1,2,4,6]
 
-for numbah in mylist:
-    #Check for even
-    if numbah % 2 == 0:
-        print(numbah)
+def even_list_check(number_list):
+  even_numbers = []
+
+  for num in number_list:
+    if num %2 ==0:
+      even_numbers.append(num)
     else:
-        print(f'Odd number: {numbah}')
+      pass
+
+  return even_numbers
+
+  return False
+
+
+even_list_check(numbah_list)
