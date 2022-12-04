@@ -1,17 +1,22 @@
-numbah_list = [1,2,4,6]
-
-def even_list_check(number_list):
-  even_numbers = []
-
-  for num in number_list:
-    if num %2 ==0:
-      even_numbers.append(num)
-    else:
-      pass
-
-  return even_numbers
-
-  return False
+https://docs.google.com/document/d/181AMuP-V5VnSorl_q7p6BYd8mwXWBnsZY_sSPA8trfc/edit?usp=sharing
 
 
-even_list_check(numbah_list)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
